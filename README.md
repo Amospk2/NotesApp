@@ -16,6 +16,6 @@ Aplicativo feito apenas para gerar conhecimento e tambem para praticar algumas t
 
 
 
-<img src="assets/NotesApp01.png" heigth=200 width="400">
-<img src="assets/NotesApp02.png" heigth=200 width="400">
-<img src="assets/NotesApp03.png" heigth=200 width="400">
+<img src="assets/NotesApp01.png" heigth=200 width="200">
+<img src="assets/NotesApp02.png" heigth=200 width="200">
+<img src="assets/NotesApp03.png" heigth=200 width="200">
