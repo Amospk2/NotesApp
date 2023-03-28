@@ -1,12 +1,12 @@
 # NotesApp
 ## App de notas feito em Dart/Flutter
 
-Aplicativo feito apenas para gerar conhecimento e tambem para praticar algumas tecnologias que venho estudando.
+Aplicativo feito apenas para gerar conhecimento e tambem para praticar algumas tecnologias que tenho estudado.
 
 ## Utilizado no projeto
 - Flutter/Dart
 - Shared_Preferences
-- Gerencia de estado com o ValueNotifier e o ValueListenable
+- Gerencia de estado com o ValueNotifier
 - Flutter Clean Architecture 
 
 ## Funcionalidades do aplicativo
